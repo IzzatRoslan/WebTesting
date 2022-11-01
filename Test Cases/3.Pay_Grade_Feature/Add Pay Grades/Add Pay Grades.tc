@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Pay Grades</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0269c8b-4e28-4c97-b6a7-a93bf169fcc5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69153e5e-4070-422d-91bf-a34062959461</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69153e5e-4070-422d-91bf-a34062959461</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

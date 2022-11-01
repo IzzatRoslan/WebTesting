@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Currency</name>
+   <tag></tag>
+   <elementGuidId>8a87b2ec-b512-42cd-82e8-b2abf2ce2834</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),'${verify_currency}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),'${verify_currency}')]</value>
+      <webElementGuid>373230ab-6fd5-467b-bbb2-cf92b2a28d1e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

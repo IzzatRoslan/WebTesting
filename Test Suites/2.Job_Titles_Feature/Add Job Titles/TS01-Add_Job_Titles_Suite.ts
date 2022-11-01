@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01-Add_Job_Titles_Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>9d7f7b24-ac13-4d71-bba4-e6ea5069e62a</testSuiteGuid>
+   <testCaseLink>
+      <guid>d804c412-bc6a-40bc-9098-c46d8ea3c0a3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/2.Job_Titles_Feature/Add Job Titles/TC01-Successfully_Add_New_Job_Title</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>466eee99-1bba-452d-8bf4-ad6ba3d8a74d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d21b3f37-2876-4936-8e00-761c39e0fb47</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dccd8484-43a1-40d5-88b2-848dc043dda5</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b910f68c-2978-43f0-8462-88c5df16a634</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/2.Job_Titles_Feature/Add Job Titles/TC02-User_Enters_Registered_Job_Title</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2b134c45-8212-4bb0-81a3-1930b4160f2b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>eabaa6dc-2d98-4e86-84b2-34ad96586454</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/2.Job_Titles_Feature/Add Job Titles/TC03-User_Select_File_Exceed_Size</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3bc99052-5a02-4e69-81bc-1aefc1e7065d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fe85448f-93ef-4bcf-8ad3-711930277e58</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/2.Job_Titles_Feature/Add Job Titles/TC04-User_Leave_Job_Title_Blank</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9f1befbd-ae9f-4d15-8f30-b8376e2bc3e1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

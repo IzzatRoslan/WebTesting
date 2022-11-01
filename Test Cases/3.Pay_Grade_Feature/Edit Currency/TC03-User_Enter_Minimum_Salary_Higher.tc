@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03-User_Enter_Minimum_Salary_Higher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f3edbd9-d172-407f-b6f9-0b6074c42718</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3282a0af-59c2-45e8-811c-61f120457636</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5d2b3cae-3214-4e44-988f-ef8c1737de3a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'3000\r\n'</defaultValue>
+      <description></description>
+      <id>3282a0af-59c2-45e8-811c-61f120457636</id>
+      <masked>false</masked>
+      <name>min</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5d2b3cae-3214-4e44-988f-ef8c1737de3a</id>
+      <masked>false</masked>
+      <name>verify_min</name>
+   </variable>
+</TestCaseEntity>

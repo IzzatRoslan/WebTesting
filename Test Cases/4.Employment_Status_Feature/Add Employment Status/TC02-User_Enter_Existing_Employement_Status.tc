@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-User_Enter_Existing_Employement_Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8e9e0f4-be5d-4412-aa17-41dfbe2dece6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>abc0c57b-f2ca-4654-aee4-4dd7b60dcd8e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Freelance1'</defaultValue>
+      <description></description>
+      <id>abc0c57b-f2ca-4654-aee4-4dd7b60dcd8e</id>
+      <masked>false</masked>
+      <name>status_name</name>
+   </variable>
+</TestCaseEntity>

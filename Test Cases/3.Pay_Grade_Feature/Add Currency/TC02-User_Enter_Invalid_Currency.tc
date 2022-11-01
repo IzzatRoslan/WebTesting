@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-User_Enter_Invalid_Currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee7544a9-6454-4a0c-b504-80d9bf6b50d5</testCaseGuid>
+</TestCaseEntity>

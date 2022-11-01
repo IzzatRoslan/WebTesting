@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-Delete_Multiple_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f778282a-2557-434a-a6f3-567ea2ba30e7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aaf42051-bcb0-471c-a4b9-e9b8e5180a43</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aaf42051-bcb0-471c-a4b9-e9b8e5180a43</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

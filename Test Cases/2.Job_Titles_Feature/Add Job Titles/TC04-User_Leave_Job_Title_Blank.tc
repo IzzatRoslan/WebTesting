@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04-User_Leave_Job_Title_Blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b31f0737-c2e6-4565-b284-351d9722eba2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f1befbd-ae9f-4d15-8f30-b8376e2bc3e1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f1befbd-ae9f-4d15-8f30-b8376e2bc3e1</id>
+      <masked>false</masked>
+      <name>Jobtitle</name>
+   </variable>
+</TestCaseEntity>

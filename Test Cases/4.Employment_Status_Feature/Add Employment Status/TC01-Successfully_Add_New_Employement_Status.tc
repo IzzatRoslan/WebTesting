@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Successfully_Add_New_Employement_Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>677d4bda-71de-4507-8080-c3aa00a0912b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d1aed6e-a63b-4ca7-8da8-55fef1511e82</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Freelance1'</defaultValue>
+      <description></description>
+      <id>7d1aed6e-a63b-4ca7-8da8-55fef1511e82</id>
+      <masked>false</masked>
+      <name>status_name</name>
+   </variable>
+</TestCaseEntity>

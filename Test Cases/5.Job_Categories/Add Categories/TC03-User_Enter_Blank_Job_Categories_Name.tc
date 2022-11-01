@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03-User_Enter_Blank_Job_Categories_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20a613aa-5778-4e23-bf4d-e6728f47df22</testCaseGuid>
+</TestCaseEntity>

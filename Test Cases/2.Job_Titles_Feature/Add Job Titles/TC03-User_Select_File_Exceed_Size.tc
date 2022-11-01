@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03-User_Select_File_Exceed_Size</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0ec8451-a660-429a-8ff5-64a9ca8e6360</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3bc99052-5a02-4e69-81bc-1aefc1e7065d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Electrician'</defaultValue>
+      <description></description>
+      <id>3bc99052-5a02-4e69-81bc-1aefc1e7065d</id>
+      <masked>false</masked>
+      <name>Jobtitle</name>
+   </variable>
+</TestCaseEntity>

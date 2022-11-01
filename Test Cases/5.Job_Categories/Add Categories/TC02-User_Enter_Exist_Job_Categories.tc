@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-User_Enter_Exist_Job_Categories</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a87f6ef-d629-4c9d-8ad7-9c5fd5d24ff7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1ed7664-dacd-4ee0-916e-ac9e84525d91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test3\r\n'</defaultValue>
+      <description></description>
+      <id>d1ed7664-dacd-4ee0-916e-ac9e84525d91</id>
+      <masked>false</masked>
+      <name>jobname</name>
+   </variable>
+</TestCaseEntity>

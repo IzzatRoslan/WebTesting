@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04-User_Enter_Registered_Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2725544-f495-45b2-a182-727ce2d14f87</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ae9208c-6575-4a34-9e86-ce2ba3701607</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>7ae9208c-6575-4a34-9e86-ce2ba3701607</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

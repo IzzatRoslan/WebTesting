@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Successfully_Delete_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7764b05e-7777-466e-bd31-5ceb4307db93</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d52c9d1-234b-43e7-bd94-4c1b7d9f6a03</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Testiscase'</defaultValue>
+      <description></description>
+      <id>0d52c9d1-234b-43e7-bd94-4c1b7d9f6a03</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

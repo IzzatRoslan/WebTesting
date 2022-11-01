@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Successfully_Add_New_Currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f324ead-6a4b-4585-b0ee-17a0c5bdf8a9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ae6054e-6872-4e59-a171-1fcf735d2e3d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>805c8148-bed1-47d5-8322-6d12f3bd692a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'MYR - Malaysian Ringgit'</defaultValue>
+      <description></description>
+      <id>2ae6054e-6872-4e59-a171-1fcf735d2e3d</id>
+      <masked>false</masked>
+      <name>currency</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>805c8148-bed1-47d5-8322-6d12f3bd692a</id>
+      <masked>false</masked>
+      <name>verify_currency</name>
+   </variable>
+</TestCaseEntity>

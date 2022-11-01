@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Successfully_Edit_Minimum_Salary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6533ab8-23d6-4a12-9abe-43c0679b2bff</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b5c4fef-c78c-467a-ad7f-c7f08c5a428a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa5901ed-e60e-41d2-8ffc-744d3f8306d5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1000'</defaultValue>
+      <description></description>
+      <id>3b5c4fef-c78c-467a-ad7f-c7f08c5a428a</id>
+      <masked>false</masked>
+      <name>min</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa5901ed-e60e-41d2-8ffc-744d3f8306d5</id>
+      <masked>false</masked>
+      <name>verify_min</name>
+   </variable>
+</TestCaseEntity>

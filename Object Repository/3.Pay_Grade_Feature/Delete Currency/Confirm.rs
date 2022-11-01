@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Confirm</name>
+   <tag></tag>
+   <elementGuidId>ffbc38c0-de06-4bec-b45c-d35b7b8bb3bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div[3]/div/div/div/div[3]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div[3]/div/div/div/div[3]/button[2]</value>
+      <webElementGuid>be99f8e4-e40b-4983-b398-58ddb0a9f521</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

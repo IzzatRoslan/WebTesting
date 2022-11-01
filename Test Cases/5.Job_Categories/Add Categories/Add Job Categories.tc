@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Job Categories</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daeee2bc-3892-4695-831d-e0fe0a465d72</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6c811405-5bf4-44a3-8561-a139cc9f8b64</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test2'</defaultValue>
+      <description></description>
+      <id>6c811405-5bf4-44a3-8561-a139cc9f8b64</id>
+      <masked>false</masked>
+      <name>jobname</name>
+   </variable>
+</TestCaseEntity>

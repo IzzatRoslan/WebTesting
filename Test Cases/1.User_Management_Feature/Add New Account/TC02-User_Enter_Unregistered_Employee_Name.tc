@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-User_Enter_Unregistered_Employee_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30e940df-93a1-47d9-bed9-4da3cc032bde</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-User_Enter_Invalid_Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc648331-d15f-4c27-8de1-f00f766f8f84</testCaseGuid>
+</TestCaseEntity>

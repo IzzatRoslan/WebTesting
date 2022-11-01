@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Successfully_Add_New_Job_Categories</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1dd9f94f-c980-4168-b990-61320cf3da13</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c944f27a-5d47-4ba3-ad1f-f925652476cc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test2'</defaultValue>
+      <description></description>
+      <id>c944f27a-5d47-4ba3-ad1f-f925652476cc</id>
+      <masked>false</masked>
+      <name>jobname</name>
+   </variable>
+</TestCaseEntity>

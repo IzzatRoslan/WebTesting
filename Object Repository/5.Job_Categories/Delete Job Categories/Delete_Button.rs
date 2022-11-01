@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete_Button</name>
+   <tag></tag>
+   <elementGuidId>ba97ea4c-e820-4a1e-8605-a8899042e37b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div/div[3]/div/div[${Index_Job}]/div[2]/div/div[3]/div/button[1]</value>
+      <webElementGuid>4e5174aa-18ca-4318-8d88-2ce768f04d59</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

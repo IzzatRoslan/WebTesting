@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5763b08e-fe7c-477b-b206-35408eb454d4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a9b21911-3489-4dd3-b9f1-6d27f268069a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a9b21911-3489-4dd3-b9f1-6d27f268069a</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

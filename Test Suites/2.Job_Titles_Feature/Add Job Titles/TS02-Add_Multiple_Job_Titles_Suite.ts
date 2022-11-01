@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS02-Add_Multiple_Job_Titles_Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>49f483e1-a0cd-4a81-a1c6-7ebce6034694</testSuiteGuid>
+   <testCaseLink>
+      <guid>90c6dde1-a321-4e79-b269-b2377d7a2dc4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/2.Job_Titles_Feature/Add Job Titles/TC01-Successfully_Add_New_Job_Title</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e52c8739-752f-4d4b-a71d-259aa6b1595b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Job_Title_Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e52c8739-752f-4d4b-a71d-259aa6b1595b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>desired_title</value>
+         <variableId>466eee99-1bba-452d-8bf4-ad6ba3d8a74d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e52c8739-752f-4d4b-a71d-259aa6b1595b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Job_Description</value>
+         <variableId>d21b3f37-2876-4936-8e00-761c39e0fb47</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e52c8739-752f-4d4b-a71d-259aa6b1595b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Notes</value>
+         <variableId>dccd8484-43a1-40d5-88b2-848dc043dda5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-User_Enter_Valid_Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70729b01-e1bd-468e-8fec-aa48d5042095</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a50a538-2186-40c6-bd04-dc41560bf678</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Joe.Root'</defaultValue>
+      <description></description>
+      <id>4a50a538-2186-40c6-bd04-dc41560bf678</id>
+      <masked>false</masked>
+      <name>setuser</name>
+   </variable>
+</TestCaseEntity>

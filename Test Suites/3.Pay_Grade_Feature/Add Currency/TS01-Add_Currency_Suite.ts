@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01-Add_Currency_Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>3150fd58-d474-4bfc-a06f-55bd9a77f030</testSuiteGuid>
+   <testCaseLink>
+      <guid>d456a3e2-4df5-4811-9d23-211cc7be7e31</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/3.Pay_Grade_Feature/Add Currency/TC01-Successfully_Add_New_Currency</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2ae6054e-6872-4e59-a171-1fcf735d2e3d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>805c8148-bed1-47d5-8322-6d12f3bd692a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>56bcba52-abb0-4385-991b-0a47c3144ce2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/3.Pay_Grade_Feature/Add Currency/TC02-User_Enter_Invalid_Currency</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8d0b2267-c2ad-4080-b205-3144e594f3cf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/3.Pay_Grade_Feature/Add Currency/TC03-User_Enter_Minimum_Salary_Higher</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6dbacdf1-eed6-4f2d-bb56-2da55028a9e9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b3c83808-43d9-454b-be9a-be5da7937f5e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

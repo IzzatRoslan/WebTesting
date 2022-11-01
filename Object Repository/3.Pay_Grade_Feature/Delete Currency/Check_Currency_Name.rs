@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check_Currency_Name</name>
+   <tag></tag>
+   <elementGuidId>20da0a6b-7166-4e1c-b91f-644b75ecc600</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div/div[3]/div/div[2]/div[${Index_Name}]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div/div[3]/div/div[2]/div[${Index_Name}]/div/div[2]/div</value>
+      <webElementGuid>6dcaa03f-fe9d-4806-a5f7-640465e645b8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

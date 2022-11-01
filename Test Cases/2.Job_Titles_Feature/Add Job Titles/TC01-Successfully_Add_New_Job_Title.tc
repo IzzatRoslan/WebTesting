@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Successfully_Add_New_Job_Title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ad3859f-de10-4fa4-ac9a-39e4ace8ebf1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>466eee99-1bba-452d-8bf4-ad6ba3d8a74d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d21b3f37-2876-4936-8e00-761c39e0fb47</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dccd8484-43a1-40d5-88b2-848dc043dda5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'QAQC'</defaultValue>
+      <description></description>
+      <id>466eee99-1bba-452d-8bf4-ad6ba3d8a74d</id>
+      <masked>false</masked>
+      <name>desired_title</name>
+   </variable>
+   <variable>
+      <defaultValue>'For testing Purposes'</defaultValue>
+      <description></description>
+      <id>d21b3f37-2876-4936-8e00-761c39e0fb47</id>
+      <masked>false</masked>
+      <name>Job_Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'For testing Purposes'</defaultValue>
+      <description></description>
+      <id>dccd8484-43a1-40d5-88b2-848dc043dda5</id>
+      <masked>false</masked>
+      <name>Notes</name>
+   </variable>
+</TestCaseEntity>

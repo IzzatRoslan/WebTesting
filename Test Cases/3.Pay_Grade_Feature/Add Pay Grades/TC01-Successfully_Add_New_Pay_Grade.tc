@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Successfully_Add_New_Pay_Grade</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf151cb6-dde6-416d-b6a7-136b47431fb8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff7f4232-17d9-419e-8f66-4b8b6f1f16e0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'GredC'</defaultValue>
+      <description></description>
+      <id>ff7f4232-17d9-419e-8f66-4b8b6f1f16e0</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

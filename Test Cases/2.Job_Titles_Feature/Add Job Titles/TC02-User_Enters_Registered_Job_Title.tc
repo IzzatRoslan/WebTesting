@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-User_Enters_Registered_Job_Title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4afffec-2c0c-46a6-b6a9-403367cf481d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b134c45-8212-4bb0-81a3-1930b4160f2b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Payroll Administrator'</defaultValue>
+      <description></description>
+      <id>2b134c45-8212-4bb0-81a3-1930b4160f2b</id>
+      <masked>false</masked>
+      <name>Jobtitle</name>
+   </variable>
+</TestCaseEntity>

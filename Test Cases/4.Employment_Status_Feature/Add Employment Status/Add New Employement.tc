@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add New Employement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2964efe-0257-4b54-be8e-631285c3ed06</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ce0000a-76c7-4fc8-9840-efdd1ba4202b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Freelance1'</defaultValue>
+      <description></description>
+      <id>4ce0000a-76c7-4fc8-9840-efdd1ba4202b</id>
+      <masked>false</masked>
+      <name>status_name</name>
+   </variable>
+</TestCaseEntity>

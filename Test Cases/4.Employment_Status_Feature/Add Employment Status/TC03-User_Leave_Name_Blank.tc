@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03-User_Leave_Name_Blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75fc8bfd-eb84-4baa-88d1-099e1b820485</testCaseGuid>
+</TestCaseEntity>
